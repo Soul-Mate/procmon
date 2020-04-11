@@ -1,7 +1,7 @@
 {
     "go.formatTool": "gofmt",
-    "go.toolsGopath": "/root/workspace/code/go",
+    "go.toolsGopath": "/root/.go",
     "go.useLanguageServer": true,
     "editor.formatOnSave": true,
-    "go.inferGopath": false
+    "go.inferGopath": false,
 }
