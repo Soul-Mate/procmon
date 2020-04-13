@@ -1,6 +1,6 @@
 {
     "go.formatTool": "gofmt",
-    "go.toolsGopath": "/root/.go",
+    "go.toolsGopath": "~/go",
     "go.useLanguageServer": true,
     "editor.formatOnSave": true,
     "go.inferGopath": false,
